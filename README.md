@@ -2,7 +2,7 @@
 
 Modeling of published clinical sufentanil studies in pediatrics for model evaluation
 
-Within this repository, we distribute a PK-Sim snapshot file containing simulations of published clinical studies used to evaluate the predictive performance of our models regarding sufentanil pharmacokincetics in children, including the respective observed data digitized from literature reports, when available.
+Within this repository, we distribute a PK-Sim snapshot file containing simulations of published clinical studies used to evaluate the predictive performance of our models regarding sufentanil pharmacokinetics in children, including the respective observed data digitized from literature reports, when available.
 
 The reference model repository can be found here:
 
